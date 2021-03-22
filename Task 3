@@ -1,1 +1,14 @@
+Notes:
+•	Using git bash, cd the Desktop and use mkdir to add a folder
+•	Then cd the added folder
+•	Use touch to add a file
+•	To add to git, use commit and enter in the username and password
+•	Use git add . to add all files, instead of adding them separately
+•	Use git rm to remove a file
 
+Notes for Part 2:
+•	Using Command Prompt, start with svnadmin create *Directory Path and folder to add*
+•	Use svn checkout pasted git link
+•	Cd trunk
+•	Svn add a file
+•	svn commit --force-log -F Hello.java
